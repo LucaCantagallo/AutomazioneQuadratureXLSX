@@ -1,0 +1,14 @@
+select a.IDRecTime as 'ID_Rec',
+       DATEADD(s, a.IDRecTime, '1970-01-01 01:00:00') as 'Data',
+       a.CallerNumber as 'Numero_Chiamante',
+       a.CalledNumber as 'Numero_Chiamato',
+       b.ExternalOperator as 'Operatore',
+	   b.UserDef06 as 'Coda',
+	   b.UserDef05 as 'Ticket'
+from   dbo.jrec_recs a with(nolock)
+join   dbo.jrec_recs_addata b with(nolock)
+on     a.IDRecTime = b.IDRecTime
+and    a.IDRecSrv = b.IDRecSrv
+and    a.IDRecSessionCount = b.IDRecSessionCount
+where  a.IDRecTime > DATEDIFF(s, '1970-01-01 00:00:00', '2021-12-18 00:01:59.000')
+and    a.IDRecTime < DATEDIFF(s, '1970-01-01 00:00:00', '2021-12-18 23:00:00.000')

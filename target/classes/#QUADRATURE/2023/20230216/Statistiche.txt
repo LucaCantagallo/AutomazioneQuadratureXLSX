@@ -1,0 +1,26 @@
+QUADRATURE DEL GIORNO: 2023-02-16
+
+Aperture Pagelet: 11056
+Chiamate Outbound: 5758
+Aperture HomePage: 974
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 73
+QueueId A: 1025
+QueueId Ot: 218
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 75
+No ticket: 63
+Refresh: 88
+
+Totale da registrare: 2854
+Totale registrazioni presenti (senza noCode): 2647
+
+Rec Mancanti: 207
+Percentuale Rec Mancanti: 7.25%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (2)
+HO29566 P_Carte_Prep_debito 21506827C
+HO29566 P_Carte_Prep_debito 21506827C

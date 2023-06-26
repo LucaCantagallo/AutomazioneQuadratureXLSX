@@ -1,0 +1,28 @@
+QUADRATURE DEL GIORNO: 2022-11-10
+
+Aperture Pagelet: 11725
+Chiamate Outbound: 5920
+Aperture HomePage: 742
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 133
+QueueId A: 1143
+QueueId Ot: 193
+QueueId Pec: 2
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 16
+No ticket: 84
+Refresh: 71
+
+Totale da registrare: 3434
+Totale registrazioni presenti (senza noCode): 3296
+
+Rec Mancanti: 138
+Percentuale Rec Mancanti: 4.02%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (4)
+HO00240 CMN_BBPM_carte 20959125C
+HO00240 P_CarteAPP 20959134C
+HO21144 W_MutuiPrestitiAPP 20961290C
+HO29491 W_ProspectTrading 20963420C

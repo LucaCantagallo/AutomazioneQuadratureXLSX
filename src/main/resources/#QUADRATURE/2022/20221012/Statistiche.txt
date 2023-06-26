@@ -1,0 +1,26 @@
+QUADRATURE DEL GIORNO: 2022-10-12
+
+Aperture Pagelet: 12693
+Chiamate Outbound: 6648
+Aperture HomePage: 824
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 141
+QueueId A: 981
+QueueId Ot: 190
+QueueId Pec: 1
+QueueId Sblocco_Carte_Maestro: 17
+No queue: 44
+No ticket: 91
+Refresh: 89
+
+Totale da registrare: 3709
+Totale registrazioni presenti (senza noCode): 3476
+
+Rec Mancanti: 233
+Percentuale Rec Mancanti: 6.28%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (2)
+HO20909 P_Dispo_banking 20817178C
+HO29945 W_Conto_Deposito 20817650C

@@ -1,0 +1,26 @@
+QUADRATURE DEL GIORNO: 2023-01-05
+
+Aperture Pagelet: 5191
+Chiamate Outbound: 7
+Aperture HomePage: 1211
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 161
+QueueId A: 699
+QueueId Ot: 97
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 3
+No ticket: 72
+Refresh: 78
+
+Totale da registrare: 2863
+Totale registrazioni presenti (senza noCode): 2768
+
+Rec Mancanti: 95
+Percentuale Rec Mancanti: 3.32%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (2)
+HO29492 W_LoginKO_otp_non_digitato 21202076C
+HO20909 CMN_BBPM_supporto_sito_app 21205695C

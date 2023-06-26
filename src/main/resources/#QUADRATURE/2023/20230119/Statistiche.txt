@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2023-01-19
+
+Aperture Pagelet: 12630
+Chiamate Outbound: 6638
+Aperture HomePage: 1087
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 193
+QueueId A: 920
+QueueId Ot: 158
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 4
+No queue: 46
+No ticket: 92
+Refresh: 98
+
+Totale da registrare: 3440
+Totale registrazioni presenti (senza noCode): 3261
+
+Rec Mancanti: 179
+Percentuale Rec Mancanti: 5.2%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO29454 W_AltroTrading 21277640C

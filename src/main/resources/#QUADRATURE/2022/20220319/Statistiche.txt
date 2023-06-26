@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2022-03-19
+
+Aperture Pagelet: 987
+Chiamate Outbound: 0
+Aperture HomePage: 0
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 0
+QueueId A: 0
+QueueId Ot: 0
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 0
+No queue: 1
+No ticket: 0
+Refresh: 21
+
+Totale da registrare: 966
+Totale registrazioni presenti (senza noCode): 923
+
+Rec Mancanti: 43
+Percentuale Rec Mancanti: 4.45%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO29513 CMN_BBPM_carte 19958123C

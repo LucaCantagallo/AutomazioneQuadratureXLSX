@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2022-12-01
+
+Aperture Pagelet: 12058
+Chiamate Outbound: 5920
+Aperture HomePage: 846
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 102
+QueueId A: 1041
+QueueId Ot: 169
+QueueId Pec: 1
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 18
+No ticket: 74
+Refresh: 89
+
+Totale da registrare: 3813
+Totale registrazioni presenti (senza noCode): 3619
+
+Rec Mancanti: 194
+Percentuale Rec Mancanti: 5.09%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+ES03557 P_Gestione_TokenAPP 21059210C

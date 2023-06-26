@@ -1,0 +1,28 @@
+QUADRATURE DEL GIORNO: 2023-02-09
+
+Aperture Pagelet: 11995
+Chiamate Outbound: 6303
+Aperture HomePage: 1196
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 111
+QueueId A: 957
+QueueId Ot: 196
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 6
+No queue: 49
+No ticket: 94
+Refresh: 101
+
+Totale da registrare: 3031
+Totale registrazioni presenti (senza noCode): 2856
+
+Rec Mancanti: 175
+Percentuale Rec Mancanti: 5.77%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (4)
+HO30099 P_Carte_Prep_debito 21449210C
+HO00240 P_Carte_Prep_debito 21456510C
+HO20896 CMN_WB_trading_investimenti 21456698C
+HO29945 W_Gestione_TokenAPP 21457370C

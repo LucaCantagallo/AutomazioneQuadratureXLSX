@@ -1,0 +1,26 @@
+QUADRATURE DEL GIORNO: 2022-10-13
+
+Aperture Pagelet: 12211
+Chiamate Outbound: 5917
+Aperture HomePage: 1312
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 134
+QueueId A: 956
+QueueId Ot: 183
+QueueId Pec: 1
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 39
+No ticket: 104
+Refresh: 149
+
+Totale da registrare: 3450
+Totale registrazioni presenti (senza noCode): 3158
+
+Rec Mancanti: 292
+Percentuale Rec Mancanti: 8.46%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (2)
+ES07923 P_Altro_Youweb 20820564C
+HO29454 W_AltroTradingAPP 20820673C

@@ -1,0 +1,26 @@
+QUADRATURE DEL GIORNO: 2023-06-08
+
+Aperture Pagelet: 11837
+Chiamate Outbound: 6241
+Aperture HomePage: 1109
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 72
+QueueId A: 932
+QueueId Ot: 103
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 42
+No ticket: 92
+Refresh: 50
+
+Totale da registrare: 3235
+Totale registrazioni presenti (senza noCode): 3088
+
+Rec Mancanti: 147
+Percentuale Rec Mancanti: 4.54%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (2)
+HO30111 CMB_BBPM_conto_carte 22367526C
+HO30465 CMB_WB_conto_carte 22363511C

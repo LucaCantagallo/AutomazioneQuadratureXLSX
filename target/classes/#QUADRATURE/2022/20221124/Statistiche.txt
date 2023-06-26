@@ -1,0 +1,24 @@
+QUADRATURE DEL GIORNO: 2022-11-24
+
+Aperture Pagelet: 11616
+Chiamate Outbound: 5649
+Aperture HomePage: 1063
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 139
+QueueId A: 945
+QueueId Ot: 156
+QueueId Pec: 1
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 46
+No ticket: 68
+Refresh: 101
+
+Totale da registrare: 3491
+Totale registrazioni presenti (senza noCode): 3309
+
+Rec Mancanti: 182
+Percentuale Rec Mancanti: 5.21%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (0)

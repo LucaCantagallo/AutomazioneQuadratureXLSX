@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2022-11-17
+
+Aperture Pagelet: 10205
+Chiamate Outbound: 4344
+Aperture HomePage: 961
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 146
+QueueId A: 993
+QueueId Ot: 191
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 7
+No queue: 17
+No ticket: 73
+Refresh: 84
+
+Totale da registrare: 3405
+Totale registrazioni presenti (senza noCode): 3285
+
+Rec Mancanti: 120
+Percentuale Rec Mancanti: 3.52%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO29933 W_CarteAPP 20997220C

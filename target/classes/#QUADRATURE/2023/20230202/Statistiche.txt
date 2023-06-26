@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2023-02-02
+
+Aperture Pagelet: 12226
+Chiamate Outbound: 6503
+Aperture HomePage: 1095
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 111
+QueueId A: 925
+QueueId Ot: 180
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 6
+No queue: 50
+No ticket: 109
+Refresh: 89
+
+Totale da registrare: 3198
+Totale registrazioni presenti (senza noCode): 3032
+
+Rec Mancanti: 166
+Percentuale Rec Mancanti: 5.19%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+ES03557 P_TM9_codici 21393879C

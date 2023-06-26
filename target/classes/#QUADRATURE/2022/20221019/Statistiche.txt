@@ -1,0 +1,27 @@
+QUADRATURE DEL GIORNO: 2022-10-19
+
+Aperture Pagelet: 12407
+Chiamate Outbound: 6550
+Aperture HomePage: 908
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 119
+QueueId A: 885
+QueueId Ot: 188
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 8
+No queue: 25
+No ticket: 118
+Refresh: 113
+
+Totale da registrare: 3518
+Totale registrazioni presenti (senza noCode): 3241
+
+Rec Mancanti: 277
+Percentuale Rec Mancanti: 7.87%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (3)
+HO20982 W_AltroTradingAPP 20848573C
+HO08631 W_MutuiPrestiti 20849785C
+ES05796 W_Gestione_TokenAPP 20851037C

@@ -1,0 +1,28 @@
+QUADRATURE DEL GIORNO: 2023-05-11
+
+Aperture Pagelet: 11989
+Chiamate Outbound: 6211
+Aperture HomePage: 1015
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 79
+QueueId A: 945
+QueueId Ot: 171
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 0
+No queue: 30
+No ticket: 88
+Refresh: 122
+
+Totale da registrare: 3358
+Totale registrazioni presenti (senza noCode): 3178
+
+Rec Mancanti: 180
+Percentuale Rec Mancanti: 5.36%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (4)
+HO20909 WB_VIP 22150137C
+ES03557 P_Altro_Youweb 22150758C
+ES03457 P_Altro_Youweb 22151699C
+HO30557 W_AltroBanking 22152163C

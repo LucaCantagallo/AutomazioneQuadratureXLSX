@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2023-01-26
+
+Aperture Pagelet: 14293
+Chiamate Outbound: 8547
+Aperture HomePage: 1226
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 170
+QueueId A: 875
+QueueId Ot: 183
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 52
+No ticket: 82
+Refresh: 96
+
+Totale da registrare: 3111
+Totale registrazioni presenti (senza noCode): 2921
+
+Rec Mancanti: 190
+Percentuale Rec Mancanti: 6.11%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO20909 P_Dispo_banking 21343603C

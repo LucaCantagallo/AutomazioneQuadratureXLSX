@@ -1,0 +1,24 @@
+QUADRATURE DEL GIORNO: 2023-03-02
+
+Aperture Pagelet: 11821
+Chiamate Outbound: 6302
+Aperture HomePage: 1194
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 70
+QueueId A: 982
+QueueId Ot: 235
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 0
+No queue: 34
+No ticket: 58
+Refresh: 70
+
+Totale da registrare: 2910
+Totale registrazioni presenti (senza noCode): 2765
+
+Rec Mancanti: 145
+Percentuale Rec Mancanti: 4.98%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (0)

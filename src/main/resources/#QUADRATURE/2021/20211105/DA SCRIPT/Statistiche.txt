@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2021-11-05
+
+Aperture Pagelet: 4050
+Chiamate Outbound: 0
+Aperture HomePage: 0
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 0
+QueueId A: 0
+QueueId Ot: 0
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 1
+No queue: 5
+No ticket: 0
+Refresh: 58
+
+Totale da registrare: 3991
+Totale registrazioni presenti (senza noCode): 3763
+
+Rec Mancanti: 228
+Percentuale Rec Mancanti: 5.71%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+ES09497 P_Gestione_Tok enAPPNULL

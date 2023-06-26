@@ -1,0 +1,27 @@
+QUADRATURE DEL GIORNO: 2023-04-27
+
+Aperture Pagelet: 13117
+Chiamate Outbound: 7946
+Aperture HomePage: 822
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 95
+QueueId A: 1004
+QueueId Ot: 177
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 4
+No queue: 60
+No ticket: 110
+Refresh: 65
+
+Totale da registrare: 2894
+Totale registrazioni presenti (senza noCode): 2733
+
+Rec Mancanti: 161
+Percentuale Rec Mancanti: 5.56%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (3)
+ES03457 P_Altro_Youweb 22048418C
+HO01387 CMB_BBPM_conto_carte 22042626C
+HO30321 P_Gestione_TokenAPP 22054401C

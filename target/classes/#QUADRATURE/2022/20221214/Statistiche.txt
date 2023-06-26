@@ -1,0 +1,39 @@
+QUADRATURE DEL GIORNO: 2022-12-14
+
+Aperture Pagelet: 15203
+Chiamate Outbound: 8481
+Aperture HomePage: 1184
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 72
+QueueId A: 1185
+QueueId Ot: 226
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 3
+No queue: 72
+No ticket: 62
+Refresh: 110
+
+Totale da registrare: 3880
+Totale registrazioni presenti (senza noCode): 3617
+
+Rec Mancanti: 263
+Percentuale Rec Mancanti: 6.78%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (15)
+HO30401 P_Carte_Prep_debito 21109351C
+HO21213 P_Carte_Prep_debito 21109363C
+HO21213 P_Carte_Prep_debito 21109370C
+HO30468 W_CarteAPP 21109356C
+HO21213 W_AltroTradingAPP 21109410C
+HO30069 W_CarteAPP 21109362C
+HO20982 W_AltroTradingAPP 21109410C
+HO29583 W_CarteAPP 21109419C
+HO30177 P_CarteAPP 21109455C
+HO30210 P_Carte_Prep_debito 21109392C
+HO30069 W_AltroBanking 21109438C
+HO29591 W_CarteAPP 21109362C
+HO00146 P_Dispo_banking 21113010C
+HO00146 P_Dispo_banking 21113556C
+HO29945 W_Conto_Deposito 21114473C

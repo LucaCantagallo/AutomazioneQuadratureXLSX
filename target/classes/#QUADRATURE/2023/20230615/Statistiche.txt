@@ -1,0 +1,27 @@
+QUADRATURE DEL GIORNO: 2023-06-15
+
+Aperture Pagelet: 10854
+Chiamate Outbound: 5600
+Aperture HomePage: 731
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 54
+QueueId A: 1113
+QueueId Ot: 122
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 2
+No queue: 28
+No ticket: 86
+Refresh: 56
+
+Totale da registrare: 3090
+Totale registrazioni presenti (senza noCode): 2946
+
+Rec Mancanti: 144
+Percentuale Rec Mancanti: 4.66%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (3)
+ES07923 W_Gestione_TokenAPP 22413099C
+HO30321 P_CarteAPP 22416585C
+HO30639 P_Blocco_servizio 22421754C

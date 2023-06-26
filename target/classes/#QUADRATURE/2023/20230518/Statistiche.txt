@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2023-05-18
+
+Aperture Pagelet: 11455
+Chiamate Outbound: 6516
+Aperture HomePage: 1027
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 80
+QueueId A: 792
+QueueId Ot: 142
+QueueId Pec: 0
+QueueId Sblocco_Carte_Maestro: 5
+No queue: 17
+No ticket: 97
+Refresh: 89
+
+Totale da registrare: 2707
+Totale registrazioni presenti (senza noCode): 2567
+
+Rec Mancanti: 140
+Percentuale Rec Mancanti: 5.17%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO25198 W_AltroBanking 22206864C

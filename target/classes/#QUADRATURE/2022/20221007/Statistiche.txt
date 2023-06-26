@@ -1,0 +1,25 @@
+QUADRATURE DEL GIORNO: 2022-10-07
+
+Aperture Pagelet: 12469
+Chiamate Outbound: 6678
+Aperture HomePage: 651
+
+Dati aperture Pagelet che NON registriamo
+QueueId WP: 143
+QueueId A: 918
+QueueId Ot: 187
+QueueId Pec: 3
+QueueId Sblocco_Carte_Maestro: 11
+No queue: 38
+No ticket: 67
+Refresh: 100
+
+Totale da registrare: 3705
+Totale registrazioni presenti (senza noCode): 3380
+
+Rec Mancanti: 325
+Percentuale Rec Mancanti: 8.77%
+
+
+Registrazioni presenti senza (ipotetica) apertura pagelet (1)
+HO30050 CMN_WB_carte 20794670C
